@@ -1,8 +1,9 @@
 package ru.netology.domain;
 
-public class Geo {
+public class Copyright {
+    private int id;
+    private String link;
+    private String name;
     private String type;
-    private String coordinatesUrl;
-    private String place;
     //+ getters, setters на все поля
 }
